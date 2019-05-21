@@ -100,7 +100,7 @@ All boxes that have susseccfully been added to the database can be shown in "Lis
 
 <img src= https://user-images.githubusercontent.com/47758672/58109427-e4f15e80-7bed-11e9-857d-0ab6b46d0abd.JPG width=70%>
 
-**Note:** The function of deleting boxes from the list is not implemented in this application. Please do it manually in your database if you desired to delete a box. 
+**Note:** The function of deleting boxes from the list is not implemented in this application. Please do it manually in your database if you want to delete a box. 
 
 Enjoy the application! :) 
 
